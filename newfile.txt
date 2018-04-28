@@ -1,6 +1,10 @@
 ddd
 
+<<<<<<< HEAD
 
 
 
 some change from master
+=======
+change from branch
+>>>>>>> 290cbbf7a6244ab2b849e3c84cc4c758541e687f
